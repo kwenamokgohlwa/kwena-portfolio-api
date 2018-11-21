@@ -64,3 +64,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Gems for LinkedIn API Integration
 gem 'devise'
 gem 'linkedin'
+gem 'twitter-bootstrap-rails'
